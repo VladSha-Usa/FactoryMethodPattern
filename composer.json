@@ -1,0 +1,16 @@
+{
+    "name": "project/taxi",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "TaxiStation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladyslav Shapovalov",
+            "email": "newshapovalov2002@gmail.com"
+        }
+    ],
+    "require": {}
+}
